@@ -1,5 +1,5 @@
 # Homepage
-Here are where you can find my write ups for each week in Oregon State's Defense Against the Dark Arts class!!
+Here are where you can find my write ups for each week in Oregon State's Defense Against the Dark Arts class!!!
 
 <ul>
   {% for post in site.posts %}
